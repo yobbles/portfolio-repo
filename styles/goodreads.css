@@ -1,0 +1,56 @@
+.gr_custom_container_1738202988 {
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 16px;
+    background-color: #f9f9f9;
+    color: #333;
+    width: 320px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .gr_custom_header_1738202988 {
+    border-bottom: 1px solid #e0e0e0;
+    width: 100%;
+    margin-bottom: 16px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .gr_custom_each_container_1738202988 {
+    width: 100%;
+    clear: both;
+    margin-bottom: 20px;
+    padding: 12px;
+    overflow: auto;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .gr_custom_each_container_1738202988:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .gr_custom_book_container_1738202988 {
+    overflow: hidden;
+    height: 80px;
+    float: left;
+    margin-right: 12px;
+    width: 50px;
+  }
+  
+  .gr_custom_title_1738202988 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 8px;
+  }
+  
+  .gr_custom_author_1738202988 {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 8px;
+  }
